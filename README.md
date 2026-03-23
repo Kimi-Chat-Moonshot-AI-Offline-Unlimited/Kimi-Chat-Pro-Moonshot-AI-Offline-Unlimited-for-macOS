@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/4toLmWf1">
+  <a href="https://cutt.ly/ntOsJluI">
     <img src="https://img.shields.io/badge/Open_Kimi_Pro_Guide-00D26A?style=for-the-badge&logo=kimi&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(0,210,106,0.6);">
